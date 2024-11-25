@@ -37,3 +37,8 @@ body {
   }
 
 }
+
+.img-fluid{
+  width: 180px;
+  height: auto;
+}
